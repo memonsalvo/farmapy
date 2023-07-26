@@ -1,0 +1,6 @@
+Modelo: 
+Es la capa que se encarga de manejar los datos y la lógica de negocio. 
+Aquí es donde almacenarías y procesarías los datos necesarios para 
+tu aplicación. Por ejemplo, si tu app necesita almacenar nombres de 
+usuarios, contraseñas u otra información relevante, esto se 
+gestionaría en el modelo.

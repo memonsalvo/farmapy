@@ -1,0 +1,6 @@
+Controlador: 
+Es la capa que actúa como intermediario entre el modelo y la vista. 
+Maneja las interacciones del usuario y actualiza la vista o el modelo 
+según sea necesario. En Tkinter, el controlador sería el código que 
+maneja los eventos del usuario, como hacer clic en un botón o 
+escribir en un cuadro de texto.
