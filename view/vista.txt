@@ -1,6 +1,0 @@
-Vista: 
-Es la capa de presentación de la aplicación, 
-es decir, la interfaz gráfica con la que el usuario interactúa. 
-En Tkinter, la vista se refiere a los componentes gráficos 
-como ventanas, botones, etiquetas, etc. Esta capa se encarga de 
-mostrar los datos y proporcionar una experiencia de usuario adecuada.
